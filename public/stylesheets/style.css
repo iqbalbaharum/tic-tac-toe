@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.col-sm {
+  height: 280px;
+}
+
+.grid-box:hover {
+  text-decoration: none;
+  background-color: #ffffed;
+}
+
+.bigger-h1 {
+  font-size: 200px;
+}
